@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "An interactive weather application providing current and 7-day forecasts using Open-Meteo, with AI-powered outdoor activity planning and recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
